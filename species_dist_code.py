@@ -59,7 +59,7 @@ processing.run('qgis:splitvectorlayer',
 
 
 #create grid
-#note: grid is approximately 20km
+#note: grid is approximately 20km x 20km
 grid="20km_grid.shp"
 
 processing.run(
